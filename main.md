@@ -8,4 +8,17 @@ It is meant to be very detailed as to be useful for someone with little construc
 
 # Overall design
 
+# Planning
+
+# Foundation
+
+# Stand
+
+# Hearth
+
+
+[floor_insulation](floor_insulation.md)
+[floor](floor.md)
+[brick dome](brick_dome.md)
 [cast dome](cast_dome.md)
+
