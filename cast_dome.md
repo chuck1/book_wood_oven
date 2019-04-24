@@ -16,5 +16,5 @@ These can come are a single piece or in several pieces.
 
 You can also make your own prefabircated dome.
 
-![photo](https://photos.app.goo.gl/N538n81oaT22cEcj6)
+
 
