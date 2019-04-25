@@ -29,7 +29,10 @@ The easiest and cheapest way to build your stand is using cinder blocks.
 
 
 [floor_insulation](floor_insulation.md)
+
 [floor](floor.md)
+
 [brick dome](brick_dome.md)
+
 [cast dome](cast_dome.md)
 
