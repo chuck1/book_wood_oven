@@ -28,4 +28,10 @@ I then painted the inside of the form with laquer paint, thinking that this woul
 It was then that I learned that certain paints disolve styrofoam.
 I also sprayed cooking spray liberally all over the inside of the form before each pour.
 
+My two test pieces came out very easily.
+But when I went to take out the first piece with refractory concrete, it would not separate from the form with just tapping with a hammer.
+I had to drive chisels in between the piece and form at the top and bottom to pry it out.
+Once out, I found that large sections of the drywall compound had been pulled out with the piece.
+I then had the idea to line the inner surface of the form with kitchen plastic wrap.
+
 
