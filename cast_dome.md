@@ -16,5 +16,16 @@ These can come are a single piece or in several pieces.
 
 You can also make your own prefabircated dome.
 
+### Segments
+
+You can divide the dome into equal slices like a pie.
+For example if you divide the dome into ten pieces, each piece will cover 36 degrees of the circle of the dome.
+
+I had some trouble with concrete adhering to the form.
+I have made the curved inner surface of the form out of styrofoam.
+I then covered the styrofoam in drywall compound so that I could get a smooth sandable surface.
+I then painted the inside of the form with laquer paint, thinking that this would make the concrete come out easier.
+It was then that I learned that certain paints disolve styrofoam.
+I also sprayed cooking spray liberally all over the inside of the form before each pour.
 
 
