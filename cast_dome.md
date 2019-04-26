@@ -85,8 +85,13 @@ The shape of the rebar is such that is cant slip out of the concrete.
 In other words, the load of concrete on the rebar is mostly perpendicular to the rebar, not parallel to it.
 Also, if the plastic wrap is applied tightly, the ridges of the rebar should still be exposed and therefor the concrete can grab on.
 
+Second, will the plastic wrap actually burn out and leave a gap as I've described.
+Again, I think so.
+Plastic wrap is made from a hydrocarbon polymer (PVC or LDPE) which should melt
+at the temperatures experienced during the curing process.
 
-
+There are alot of unknowns with this solution and it makes me a bit nervous.
+So I plan to also test the first idea of passing a bolt through the concrete which can later be removed.
 
 
 
