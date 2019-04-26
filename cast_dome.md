@@ -75,7 +75,7 @@ I have thought of one solution to this, that I have plans to test.
 What if you were to tightly wrap the rebar in plastic wrap?
 As you cure the oven, the plastic wrap will burn out.
 This leaves a small gap between the rebar and concrete, just enough space to allow
-the steel to expand without begin restricted by the concrete.
+the steel to expand without being restricted by the concrete.
 There are a couple questions about this idea.
 
 First, will the rebar still work for lifting the concrete, since the adhesion between concrete and rebar is 
