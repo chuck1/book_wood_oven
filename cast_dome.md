@@ -54,6 +54,8 @@ Then I thought of the idea to add a lifting point anchored to the segment itself
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/ZYDq6NttnhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=ZYDq6NttnhM)
+
 One method would be to drill or cast a hole through the piece.
 An eye bolt would then be inserted.
 I have not tested this idea and one concern I have is that there will be high
