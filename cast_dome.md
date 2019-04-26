@@ -48,6 +48,8 @@ and you will have to somehow remove the straps *after* you set the piece in plac
 This might be possible if you left small sections un-mortared where the traps are.
 But this sounded like alot of work and overly complicated.
 
+#### Through-Hole
+
 Then I thought of the idea to add a lifting point anchored to the segment itself.
 One method would be to drill or cast a hole through the piece.
 An eye bolt would then be inserted.
@@ -55,6 +57,8 @@ I have not tested this idea and one concern I have is that there will be high
 stress concentrations where the bolt makes contact with the concrete.
 However, the concrete could be cast with an extra feature that acts as a shoulder for a washer to make contact with, which
 would spread the stress more evenly on the concrete.
+
+#### Rebar
 
 But I went with a simpler solution.
 I bent a piece of rebar such that it was a U shape that sticks out of the external surface of 
