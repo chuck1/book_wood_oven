@@ -58,6 +58,19 @@ stress concentrations where the bolt makes contact with the concrete.
 However, the concrete could be cast with an extra feature that acts as a shoulder for a washer to make contact with, which
 would spread the stress more evenly on the concrete.
 
+The best way to do this would be to cast the eyebolt in place in the concrete.
+That way, the eyebolt can be used to lift the concrete out of the mold.
+I will remove some material from the inner surface of the mold to make room for the eye bolt and a nut.
+This will also make a cylindrical feature of concrete extending from that inner surface.
+A washer will sit on the face of that cylinder.
+The feature can be cut or ground off later and the hole can be plugged with mortar.
+
+We need to make sure that the bolt will come out of the concrete later.
+I will tape any threads that would be in contact with the concrete.
+I will also spray the bolt with cooling oil spray.
+I will pour a test piece with regular concrete to test this.
+If the bolt does not come free with just cooking spray, I will try other coatings.
+
 #### Rebar
 
 But I went with a simpler solution.
