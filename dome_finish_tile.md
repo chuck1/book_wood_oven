@@ -12,3 +12,5 @@ Layers:
 * Mapei AqueDefense
 * mortar
 * tile
+
+[](https://community.fornobravo.com/forum/pizza-oven-design-and-installation/design-styles-chimneys-and-finish/11570-tile-to-finish-oven-exterior)
