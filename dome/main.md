@@ -14,9 +14,9 @@ Then transition to a constant curvature up to the top of the dome.
 
 One concern with a low dome is that the dome is not perfectly self-supporting as the hemispherical dome is.
 I had the idea to ad extra support near the bottom of the dome.
-And I found one exmaple of someone else doing this.
+And I found one exmaple of someone else doing this [here](https://aleksandr-ta.livejournal.com/?skip=10).
 
-<img src="" width=600>
+<img src="https://s3-us-west-2.amazonaws.com/19f075ca4a482833.media/wood_oven/31736_900.jpg" width=600>
 
 
 [brick dome](dome_brick.md)
