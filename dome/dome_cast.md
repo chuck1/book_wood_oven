@@ -1,22 +1,22 @@
 
-# Cast Dome
+## Cast Dome
 
 There are two ways to build a cast dome: cast-in-place or prefabricated.
 
-## Cast-In-Place
+### Cast-In-Place
 
 With cast-in-place, you build forms and then pour the dome directly on your oven floor.
 You building a form which fills the inner volume of your oven.
 You also need some forms around the outside.
 
-## Prefabricated
+### Prefabricated
 
 You can buy prefabricated domes.
 These can come are a single piece or in several pieces.
 
 You can also make your own prefabircated dome.
 
-### Segments
+#### Segments
 
 You can divide the dome into equal slices like a pie.
 For example if you divide the dome into ten pieces, each piece will cover 36 degrees of the circle of the dome.
@@ -48,7 +48,7 @@ and you will have to somehow remove the straps *after* you set the piece in plac
 This might be possible if you left small sections un-mortared where the traps are.
 But this sounded like alot of work and overly complicated.
 
-#### Through-Hole
+##### Through-Hole
 
 Then I thought of the idea to add a lifting point anchored to the segment itself.
 
@@ -74,7 +74,7 @@ I will also spray the bolt with cooling oil spray.
 I will pour a test piece with regular concrete to test this.
 If the bolt does not come free with just cooking spray, I will try other coatings.
 
-#### Rebar
+##### Rebar
 
 But I went with a simpler solution.
 I bent a piece of rebar such that it was a U shape that sticks out of the external surface of 
