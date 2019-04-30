@@ -1,9 +1,11 @@
 
+files_md = $(wildcard *.md)
+ 
 .PHONY: all
 
 all: main.pdf
 	
-main.html: main.md
+main.html: $(files_md)
 	python make_pdf.py
 
 main.pdf: main.html

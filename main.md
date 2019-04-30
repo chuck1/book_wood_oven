@@ -27,12 +27,20 @@ The easiest and cheapest way to build your stand is using cinder blocks.
 
 # Hearth
 
+[hearth recessed](hearth_recessed.md)
 
-[floor_insulation](floor_insulation.md)
+[floor insulation](floor_insulation.md)
 
 [floor](floor.md)
 
-[brick dome](brick_dome.md)
+[dome](dome/main.md)
 
-[cast dome](cast_dome.md)
+[dome finish tile](dome_finish_tile.md)
+
+[chimney](chimney.md)
+
+# Appendix
+
+[sand molds](sand_molds.md)
+
 
