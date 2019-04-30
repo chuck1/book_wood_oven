@@ -4,6 +4,11 @@
 This repository is a public collaboration to create the complete guide for building a
 wood fired oven.
 
+[html book](https://s3-us-west-2.amazonaws.com/19f075ca4a482833.media/wood_oven_book.html)
+
+[pdf book](https://s3-us-west-2.amazonaws.com/19f075ca4a482833.media/wood_oven_book.pdf)
+
+
 ## Contributing
 
 Once you create a Github account, you can submit changes using the editor on the site.
