@@ -1,6 +1,8 @@
 
 <h1 style="font-size: 42">Wood Fired Oven</h1>
 
+[TOC]
+
 # Introduction
 
 This document is meant to provide instructions and advice on the construction of a particular style of wood-fired oven.

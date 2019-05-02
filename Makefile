@@ -6,7 +6,7 @@ files_md = $(shell find . -name "*.md")
 all: main.pdf
 	echo $(files_md)
 	
-main.html: $(files_md)
+main.html: $(files_md) make_pdf.py template.html
 	python make_pdf.py
 
 main.pdf: main.html

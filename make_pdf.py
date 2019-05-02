@@ -1,6 +1,7 @@
 import os
 import re
 
+import jinja2
 import markdown
 
 def process(s, folder=''):
@@ -43,20 +44,41 @@ def read(filename):
     return "".join(process(s, h))
 
 
-
 def main():
 
     s = read("main.md")
 
     print(s)
 
-    s1 = markdown.markdown(s)
+    md = markdown.Markdown(extensions=['toc'])
+
+    s1 = md.convert(s)
 
     print(s1)
 
+    env = jinja2.Environment(
+            loader=jinja2.FileSystemLoader('.')
+            )
+
+    s1 = "{% extends 'template.html' %}{% block body %}\n" + s1 + "{% endblock %}\n"
+
+    temp = env.from_string(s1)
+
     with open("main.html", "w") as f:
-        f.write(s1)
+        f.write(temp.render())
+
+
 
 if __name__ == "__main__":
     main()
+
+
+
+
+
+
+
+
+
+
 
