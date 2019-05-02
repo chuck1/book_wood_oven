@@ -1,7 +1,7 @@
 
 # Wood Oven Book
 
-This repository is a public collaboration to create the complete guide for building a
+This repository is a public collaboration to create a guide for building a
 wood fired oven.
 
 [html book](https://s3-us-west-2.amazonaws.com/19f075ca4a482833.media/wood_oven_book.html)
