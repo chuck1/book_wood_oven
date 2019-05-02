@@ -24,6 +24,16 @@ So take your time, do your research.
 Be confident that each part of your oven will work as intended.
 This document will hopefully answer alot of questions you will have.
 
+### Tools
+
+Consider buying a concrete mixer.
+If you can justify the cost (as opposed to renting), you will not regret having it.
+
+Consider buying a concrete vibrator.
+If you can get a cheap one for under $100, it is well worth being able to easily get good pours.
+This especially applies if you are casting your dome.
+
+
 # Overall design
 
 ## Ash Chute
