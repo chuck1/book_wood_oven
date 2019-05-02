@@ -27,8 +27,9 @@ The base will sit directly on the top of the dome.
 A hole will be cut out of the base to allow exhaust from the second part enter.
 Steam vents can be drilled into this part where it is adjacent to the fiber blanket insulation.
 
-The base will need to be 6 inches tall
+The base will need to be 7 inches tall
 
+* 1 - insulation
 * 2 - passage
 * 1 - passage roof
 * 2 - blanket insulation

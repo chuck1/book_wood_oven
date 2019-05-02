@@ -7,12 +7,12 @@ It seems that the overall idea is:
 * Fiber blanket insulation
 * Chicken wire. To give the next layer something to grab on to
 * a rigid layer
-  * Could be stucco or some type of concrete.
-  * Required because the blanket is compressible and you want a rigid surface on which to lay tile.
+    * Could be stucco or some type of concrete.
+    * Required because the blanket is compressible and you want a rigid surface on which to lay tile.
 * Waterproofing
-  * There are many options. Many are thin liquid coatings that are painted on.
+    * There are many options. Many are thin liquid coatings that are painted on.
 * Mortar
-  * I have seen suggestions for using Flexbond by Custom. This is a high quality, polymer mortar.
+    * I have seen suggestions for using Flexbond by Custom. This is a high quality, polymer mortar.
 * Tiles
 * Grout. Just normal grout?
 * Waterproofer for grout?
