@@ -13,6 +13,8 @@ wood fired oven.
 
 Once you create a Github account, you can submit changes using the editor on the site.
 Click on the file you want to edit and click the pencil icon.
+The source files for the document end in **.md**.
+These are writen in [markdown syntax](https://daringfireball.net/projects/markdown/syntax).
 Once you're done editing, click the green submit button at the bottom of the page.
 I will review the change and approve or reject it.
 
