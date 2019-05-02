@@ -1,9 +1,10 @@
 
-files_md = $(wildcard *.md)
+files_md = $(shell find . -name "*.md")
  
 .PHONY: all
 
 all: main.pdf
+	echo $(files_md)
 	
 main.html: $(files_md)
 	python make_pdf.py

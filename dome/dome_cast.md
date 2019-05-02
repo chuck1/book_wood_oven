@@ -16,6 +16,9 @@ These can come are a single piece or in several pieces.
 
 You can also make your own prefabircated dome.
 
+*Start pouring you precast pieces early as it can take a long time. And if you mess up a pour
+you may need to repour some pieces.*
+
 #### Segments
 
 You can divide the dome into equal slices like a pie.
