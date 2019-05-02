@@ -7,6 +7,7 @@
 
 This document is meant to provide instructions and advice on the construction of a particular style of wood-fired oven.
 It is meant to be very detailed as to be useful for someone with little construction experience.
+Much of the materials was taken from the [Forno Bravo Oven Plans](https://www.fornobravo.com/pompeii-oven/pompeii-oven-plans/).
 
 If this quide does not answer a question you have, please [create an issue](https://github.com/chuck1/book_wood_oven/issues) on the github page.
 If you want to contribute to this document, see instruction in the [README](https://github.com/chuck1/book_wood_oven).
