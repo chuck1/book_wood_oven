@@ -27,6 +27,11 @@ So take your time, do your research.
 Be confident that each part of your oven will work as intended.
 This document will hopefully answer alot of questions you will have.
 
+Do your research and be patient.
+Building the oven is a long process, if you're like me you may get impatient.
+There are alot of parts and alot of ways to make mistakes.
+Take your time and do it right.
+
 ### Tools
 
 Consider buying a concrete mixer.
@@ -35,7 +40,6 @@ If you can justify the cost (as opposed to renting), you will not regret having 
 Consider buying a concrete vibrator.
 If you can get a cheap one for under $100, it is well worth being able to easily get good pours.
 This especially applies if you are casting your dome.
-
 
 # Overall design
 
@@ -46,26 +50,17 @@ Ash is swept into this gap and falls into a container.
 
 # Planning
 
-# Foundation
+[foundation](foundation.md)
 
-When planning your foundation, you need to think about the type of soil and the climate you live in.
+[stand](stand.md)
 
-You can also think about ground pressure, but I dont know if this is necessary.
-To calculate ground pressure, take the total weight of your oven including the foundation and divide that by the area of your foundation.
-This is the ground pressure.
-
-# Stand
-
-The purpose of the stand is to lift the oven up off the ground to a comfortable height for cooking.
-The easiest and cheapest way to build your stand is using cinder blocks.
-
-# Hearth
-
-[hearth recessed](hearth_recessed.md)
+[hearth](hearth/main.md)
 
 [floor insulation](floor_insulation.md)
 
 [floor](floor.md)
+
+[door](door.md)
 
 [dome](dome/main.md)
 
@@ -76,5 +71,7 @@ The easiest and cheapest way to build your stand is using cinder blocks.
 # Appendix
 
 [sand molds](sand_molds.md)
+
+[brick laying](brick_laying.md)
 
 
