@@ -44,7 +44,19 @@ def read(filename):
     return "".join(process(s, h))
 
 
+def process(filename_in):
+
+    print(filename_in)
+
 def main():
+
+
+    for root, dirs, files in os.walk('source'):
+        for filename in files:
+            process(filename_in)
+
+    return
+
 
     s = read("main.md")
 
@@ -66,7 +78,6 @@ def main():
 
     with open("main.html", "w") as f:
         f.write(temp.render())
-
 
 
 if __name__ == "__main__":

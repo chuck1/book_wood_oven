@@ -50,28 +50,24 @@ Ash is swept into this gap and falls into a container.
 
 # Planning
 
-[foundation](foundation.md)
+* [foundation](foundation.md)
+* [stand](stand.md)
+* [hearth](hearth/main.md)
+* [floor insulation](floor_insulation.md)
+* [floor](floor.md)
+* [door](door.html)
+* [dome](dome/main.html)
+* [dome finish tile](dome_finish_tile.html)
+* [chimney](chimney.html)
+* [curing](curing.html)
 
-[stand](stand.md)
-
-[hearth](hearth/main.md)
-
-[floor insulation](floor_insulation.md)
-
-[floor](floor.md)
-
-[door](door.md)
-
-[dome](dome/main.md)
-
-[dome finish tile](dome_finish_tile.md)
-
-[chimney](chimney.md)
 
 # Appendix
 
-[sand molds](sand_molds.md)
+* [sand molds](sand_molds.md)
+* [brick laying](brick_laying.md)
 
-[brick laying](brick_laying.md)
+
+
 
 
